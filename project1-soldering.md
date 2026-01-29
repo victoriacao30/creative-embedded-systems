@@ -1,7 +1,7 @@
 # Blooming Under Heat
 
 ### 
-For this project, I used a protoboard, 12-pin header, brass rod, and soldering iron to create a flower sculpture. I explored how to solder pins onto a board, shape solder beads, and bend brass rods into creative forms of art.
+For this project, I used a protoboard, 12-pin header, brass rod, and soldering iron to create a flower sculpture. I explored how to solder pins onto a board, shape solder beads, and bend brass rods to create forms of art.
 
 ## Hero Shot
 ![Hero Image](hero.jpg)
