@@ -1,4 +1,4 @@
-# Blooming Under Heat
+# Wired for Love :sparkling_heart:
 
 For this project, I designed and created a heart-shaped PCB powered by a 555 timer to create a blinking LED pendant. The goal was to gain hands-on experience with PCB layout, CNC milling, and soldering while creating a heart inspired by Valentine’s Day.
 
