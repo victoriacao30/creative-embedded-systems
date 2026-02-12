@@ -7,7 +7,7 @@ For this project, I designed and created a heart-shaped PCB powered by a 555 tim
 ## Video
 ## Demo Video
 ## Demo Video
-[![Watch the Demo](front light.jpeg)](https://youtu.be/IbIW-W2_tzk?si=9Sd81y6OargAoIy_)
+[Watch the Demo](https://youtu.be/IbIW-W2_tzk?si=9Sd81y6OargAoIy_)
 
 ## Reflection 
 In the beginning, I was confused about which components needed to be connected. The schematic felt overwhelming, and I struggled to understand how something so technical could turn into a meaningful shape. But as I became more comfortable with the layout, I found that it was actually quite fun to rearrange the components and manipulate the traces to create different shapes. The circuit itself has strict rules, but within those rules, there is still space for creativity. 
