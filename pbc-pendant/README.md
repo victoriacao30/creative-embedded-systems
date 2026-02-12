@@ -23,3 +23,7 @@ This project was created as part of a PCB fabrication assignment focused on layo
 6. Soldered all components.
 7. Powered using a 3V coin cell battery.
 
+## Visual Documentation:
+![Heart PBC](kicad.jpeg)
+![Heart PBC](frontlight.jpeg)
+
