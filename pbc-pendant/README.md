@@ -26,5 +26,5 @@ This project was created as part of a PCB fabrication assignment focused on layo
 ## Visual Documentation:
 ![Heart PBC](kicad.jpeg)
 ![Heart PBC](frontlight.jpeg)
-![Heart PBC](milling.jpeg)
-![Heart PBC](solder.jpeg)
+![Heart PBC](milling.heic)
+![Heart PBC](solder.heic)
