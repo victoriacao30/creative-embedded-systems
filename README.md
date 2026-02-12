@@ -5,4 +5,4 @@ Portfolio for Creative Embedded Systems- Spring 2026
 [View Project →](project1-soldering.md)
 
 ## Project 2: Wired for Love
-[View Project →](pbc-pendant)
+[View Project →](pbc-pendant/blogpost.md)
