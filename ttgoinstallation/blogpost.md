@@ -1,3 +1,11 @@
+# Sonder
+
+This project explores the concept of sonder through a generative visualization running on an ESP32 TTGO T-Display. The installation uses generative art to reflect the simultaneous lives unfolding around us.
+
+## Demo Video:
+[🎥 Watch the Demo (watch it light up!)]([https://youtu.be/IbIW-W2_tzk?si=9Sd81y6OargAoIy_](https://www.youtube.com/shorts/ogUNu3cPZ-Q))
+
+## Reflection 
 For this ESP32 installation, I created a generative display inspired by the concept of sonder — the realization that every passerby is living a life as vivid and complex as your own.
 
 When beginning the project, I considered what kind of artwork could make an impact on such a small screen. I encountered several challenges early on, including incorrectly calculated building dimensions, text that disappeared too quickly, and transitions that felt visually disruptive. Through debugging and recalculating layouts, I refined the composition into a clearer visual system.
