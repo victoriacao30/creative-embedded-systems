@@ -6,3 +6,6 @@ Portfolio for Creative Embedded Systems- Spring 2026
 
 ## Project 2: Wired for Love
 [View Project →](pbc-pendant/blogpost.md)
+
+## Project 3: Sonder
+[View Project →](ttgoinstallation/blogpost.md)
