@@ -5,14 +5,12 @@ This project is a generative art installation created using an ESP32 TTGO T-Disp
 
 The work was designed for a battery-powered hallway installation in Milstein Hall as part of a collaborative class exhibition.
 
----
 
 ## Hardware Requirements
 - ESP32 TTGO T-Display  
 - 3.7V LiPo battery  
 - USB-C cable for programming  
 
----
 
 ## Software Requirements
 - VS Code  
