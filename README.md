@@ -11,4 +11,4 @@ Portfolio for Creative Embedded Systems- Spring 2026
 [View Project →](ttgoinstallation/blogpost.md)
 
 ## Project 4: Inner Child
-[View Project →](ttgoinstallation/blogpost.md)
+[View Project →](inner-child/README.md)
