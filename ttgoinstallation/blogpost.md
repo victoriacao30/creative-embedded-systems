@@ -68,6 +68,4 @@ Walking around to see everyone's work was its own moment of sonder. That's the p
  
 ## Reflection
  
-This was my first time making art for an installation, and I wasn't sure what to expect. Working on something so small and technical — debugging timing offsets, tuning colors, iterating on sequencing — and then seeing it hanging in a public hallway among everyone else's work was genuinely moving.
- 
-Thank you to Professor Mark and TA Miles for setting up the installation, and to all my incredible classmates. I can't wait to keep making things with all of you. 🙌
+This was my first time making art for an installation, and I wasn't sure what to expect. Working on something so small and technical — debugging timing offsets, tuning colors, iterating on sequencing — and then seeing it hanging in a public hallway among my classmates' works was so exciting!!
