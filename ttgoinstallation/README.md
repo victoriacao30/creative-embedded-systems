@@ -4,7 +4,7 @@
 
 A generative art installation on the ESP32 TTGO T-Display that visualizes a flickering cityscape — each window a different story.
 
-🎥 [Demo Video](https://www.youtube.com/shorts/ogUNu3cPZ-Q) · 📝 [Blog Post](BLOG.md) · 🌐 [Project Page](https://victoriaxcao.com/esp)
+🎥 [Demo Video](https://www.youtube.com/shorts/ogUNu3cPZ-Q) · 🌐 [Project Page](https://victoriaxcao.com/esp)
 
 ![Sonder installation](assets/installation.jpg)
 
